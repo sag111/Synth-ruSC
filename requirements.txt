@@ -1,0 +1,22 @@
+os
+tqdm
+json
+pickle
+shutil
+pathlib
+datetime
+subprocess
+collections
+
+numpy
+
+librosa
+soundfile
+
+torch
+transformers
+
+TTS  # https://docs.coqui.ai/en/latest/installation.html
+nemo  # https://github.com/NVIDIA/NeMo
+sgvad  # https://github.com/jsvir/vad
+vosk-transcriber  # https://alphacephei.com/vosk/install

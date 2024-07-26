@@ -4,7 +4,7 @@ Synthetic dataset to solve the KWS problem in Russian.
 
 This repository provides dataset and additional materials of the paper: "Synth-ruSC: Construction and Validation of Synthetic Dataset to Solve the Problem of Keyword Spotting in Russian" (submitted for review).
 
-The Synth-ruSC dataset is available for download at [this link](https://cloud.mail.ru/public/eNA1/FDgVqAbJL).
+The Synth-ruSC dataset is available for download at [this link](https://cloud.mail.ru/public/yYgT/SVhwn5dpZ).
 
 Required external libs
 ---

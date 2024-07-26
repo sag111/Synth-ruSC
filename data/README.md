@@ -10,7 +10,7 @@ For example, in our case:
 
 2. `./data/Synt-RuSC` -- Directory with generated synthetic data at different stages (raw/interim/processed)
     
-    The Synth-ruSC dataset is available for download at [this link](https://cloud.mail.ru/public/eNA1/FDgVqAbJL).
+    The Synth-ruSC dataset is available for download at [this link](https://cloud.mail.ru/public/yYgT/SVhwn5dpZ).
     
     The structure of this directory:
     ```
